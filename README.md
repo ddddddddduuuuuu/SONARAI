@@ -1,7 +1,7 @@
 # SONAR: AI Intelligence Officer for Blockchain Transactions
 
 <div align="center">
-  <img src="public/images/logo.png" alt="SONAR Logo" width="200"/>
+  <img src="https://github.com/ddddddddduuuuuu/SONARAI/raw/main/public/images/logo.png" alt="SONAR Logo" width="200"/>
   
   <p>
     <strong>Real-time blockchain whale activity monitoring and intelligent alerts</strong>
@@ -10,7 +10,7 @@
   <p>
     <a href="http://sonar.tel/" target="_blank">Official Website</a> •
     <a href="https://x.com/SolanaSonar" target="_blank">Twitter</a> •
-    <a href="https://github.com/ddddddddduuuuuu/SONAR" target="_blank">GitHub</a>
+    <a href="https://github.com/ddddddddduuuuuu/SONARAI" target="_blank">GitHub</a>
   </p>
   
   <p>
@@ -24,8 +24,8 @@
   </p>
   
   <p>
-    <a href="https://github.com/ddddddddduuuuuu/SONAR/issues">Report Bug</a> •
-    <a href="https://github.com/ddddddddduuuuuu/SONAR/issues">Request Feature</a>
+    <a href="https://github.com/ddddddddduuuuuu/SONARAI/issues">Report Bug</a> •
+    <a href="https://github.com/ddddddddduuuuuu/SONARAI/issues">Request Feature</a>
   </p>
 </div>
 
@@ -134,8 +134,8 @@ SONAR uses AI technology to track the movements of major traders and capital flo
 
 ```bash
 # Clone the repository
-git clone https://github.com/username/SONAR.git
-cd SONAR
+git clone https://github.com/ddddddddduuuuuu/SONARAI.git
+cd SONARAI
 
 # Navigate to frontend directory
 cd frontend
@@ -374,7 +374,7 @@ A: Yes, we plan to offer API access for Premium subscribers to integrate SONAR d
 
 - **Website**: [sonar.tel](http://sonar.tel/)
 - **Twitter**: [@SolanaSonar](https://x.com/SolanaSonar)
-- **GitHub**: [github.com/ddddddddduuuuuu/SONAR](https://github.com/ddddddddduuuuuu/SONAR)
+- **GitHub**: [github.com/ddddddddduuuuuu/SONARAI](https://github.com/ddddddddduuuuuu/SONARAI)
 - **Telegram**: [t.me/SONAR_community](https://t.me/SONAR_community)
 - **Discord**: [discord.gg/SONAR](https://discord.gg/SONAR)
 - **Email**: support@sonar.tel
