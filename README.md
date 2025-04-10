@@ -67,7 +67,7 @@ SONAR uses AI technology to track the movements of major traders and capital flo
 
 ### System Overview
 
-```
+```text
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
 │                 │    │                 │    │                 │
 │  Data Ingestion │───▶│  Core Analysis  │───▶│   User-Facing   │
@@ -378,7 +378,6 @@ A: Yes, we plan to offer API access for Premium subscribers to integrate SONAR d
 - **Twitter**: [@SolanaSonar](https://x.com/SolanaSonar)
 - **GitHub**: [github.com/ddddddddduuuuuu/SONARAI](https://github.com/ddddddddduuuuuu/SONARAI)
 - **Telegram**: [t.me/SONAR_community](https://t.me/SONAR_community)
-- **Discord**: [discord.gg/SONAR](https://discord.gg/SONAR)
 - **Email**: support@sonar.tel
 
 ## License
