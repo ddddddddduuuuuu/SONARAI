@@ -1,7 +1,7 @@
 # SONAR: AI Intelligence Officer for Blockchain Transactions
 
 <div align="center">
-  <img src="public/images/logo.png" alt="SONAR Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/ddddddddduuuuuu/SONARAI/main/public/images/logo.png" alt="SONAR Logo" width="200"/>
   
   <p>
     <strong>Real-time blockchain whale activity monitoring and intelligent alerts</strong>
